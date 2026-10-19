@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/data_inspector/inspector.py
+src/data_inspector/numpy_stats.py
+src/data_inspector/stats.py
+src/data_inspector/validator.py
+src/my_ai_project.egg-info/PKG-INFO
+src/my_ai_project.egg-info/SOURCES.txt
+src/my_ai_project.egg-info/dependency_links.txt
+src/my_ai_project.egg-info/requires.txt
+src/my_ai_project.egg-info/top_level.txt
+tests/test_numpy_stats.py
+tests/test_stats.py
